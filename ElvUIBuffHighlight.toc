@@ -1,0 +1,10 @@
+## Interface: 110200
+## Author: Kaalos-Ysondre(FR) (original), MiyuHimano (update/fork)
+## Version: 2025-08-28-retailfix
+## Title: |cff1784d1ElvUI|r |cff00b3ffBuffHighlight|r
+## Notes: Simple ElvUI plugin that allows to highlight group frames when a unit is buffed. Original by Kaalos-Ysondre, updated for TWW by MiyuX
+## RequiredDeps: ElvUI
+
+core.lua
+profile.lua
+options.lua
